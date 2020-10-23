@@ -18,3 +18,5 @@ var matematica = /** @class */ (function () {
     };
     return matematica;
 }());
+var n1 = 'jdhhhdhd';
+n1 = 4;

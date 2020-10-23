@@ -20,3 +20,6 @@ class matematica{
         return x + y;
     }
 }
+
+let n1: any = 'jdhhhdhd';
+n1 = 4;
